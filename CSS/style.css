@@ -71,7 +71,15 @@ fieldset {
     -webkit-border-radius: 5px;
     background-color: rgba(63, 156, 70, 0.548);
     width:fit-content;
-    
+
+    .MainDiet-Column {
+    float: Right;
+    Width: 70%;
+}        
+    .Sidebar-Column {
+     float: Left;
+     Width: 30%;   
+}    
     
     
 }
