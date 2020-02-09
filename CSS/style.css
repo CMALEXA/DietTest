@@ -50,9 +50,9 @@ main {
 fieldset {
     display: flex;
     border: 2px dotted rgb(18, 19, 18);
-    border-radius: 30px;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
+    border-radius: 15px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
     background-color: rgba(63, 156, 70, 0.548);
     width:fit-content;
     
@@ -66,9 +66,9 @@ fieldset {
 fieldset {
     display: flex;
     border: 2px dotted rgb(18, 19, 18);
-    border-radius: 30px;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
+    border-radius: 15px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
     background-color: rgba(63, 156, 70, 0.548);
     width:fit-content;
     
