@@ -50,9 +50,9 @@ main {
 fieldset {
     display: flex;
     border: 2px dotted rgb(18, 19, 18);
-    border-radius: 15px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
+    border-radius: 3px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
     background-color: rgba(63, 156, 70, 0.548);
     width:fit-content;
     
