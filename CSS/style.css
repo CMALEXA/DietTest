@@ -57,18 +57,7 @@ fieldset {
     width:fit-content;
     
 }
-
-/*diet*/
-fieldset {
-    display: flex;
-    border: 2px dotted rgb(18, 19, 18);
-    border-radius: 15px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    background-color: rgba(63, 156, 70, 0.548);
-    width:fit-content;
-}    
-
+    
  .MainDiet-Column {
     float: Right;
     Width: 70%;
@@ -80,8 +69,6 @@ fieldset {
      Width: 30%;   
 }    
     
-
-
 fieldset p {
     padding: 15px;
 }
