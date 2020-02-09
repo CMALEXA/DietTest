@@ -67,6 +67,7 @@ fieldset {
     -webkit-border-radius: 5px;
     background-color: rgba(63, 156, 70, 0.548);
     width:fit-content;
+}    
 
  .MainDiet-Column {
     float: Right;
@@ -79,8 +80,6 @@ fieldset {
      Width: 30%;   
 }    
     
-    
-}
 
 
 fieldset p {
