@@ -58,15 +58,13 @@ main {
 
  .MainDiet-Column {
     float: Right;
-    Width: 90%;
+    Width: 80%;
     height:100%; 
 }        
  .Sidebar-Column {
      float: Left;
-     Width: 10%;
-     Height:100%;
-     border-style: groove;
-     border-width: 5px;
+     Width: 20%;
+     
 }    
 
     
