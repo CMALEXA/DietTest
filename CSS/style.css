@@ -56,11 +56,7 @@ fieldset {
     background-color: rgba(63, 156, 70, 0.548);
     width:fit-content;
     
-    
-    
 }
-}
-
 
 /*diet*/
 fieldset {
@@ -72,11 +68,13 @@ fieldset {
     background-color: rgba(63, 156, 70, 0.548);
     width:fit-content;
 
-    .MainDiet-Column {
+ .MainDiet-Column {
     float: Right;
     Width: 70%;
 }        
-    .Sidebar-Column {
+ .Sidebar-Column {
+     background: #333;
+     color: #fff;  
      float: Left;
      Width: 30%;   
 }    
