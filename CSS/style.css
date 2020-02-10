@@ -58,9 +58,20 @@ fieldset {
 }
 
 #dietContainer{
-    width:300px;
+    width:10px;
     margin-left:auto;
     Margin-right:auto;
+}
+
+#dietNav{
+    width:180px;
+    float:left;
+}
+
+#MainDiet-Column {
+    width:600px;
+    float:right;
+   
 }
 
 fieldset p {
