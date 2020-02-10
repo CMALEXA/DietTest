@@ -54,45 +54,13 @@ fieldset {
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     background-color: rgba(63, 156, 70, 0.548);
-    width:fit-content;
-    
-   *{ 
-margin:0px;
-padding:0px;
-font-family:sans-serif;
-}
-#dietNav {
-position:fixed;
-width:180px;
-height:70%;
-background:#151719;
+    width:fit-content;  
 }
 
-#dietNav ul li{
-color:rgba(230,230,230,0.9);
-list-style:none;
-padding:15px 10px;
-border-bottom: 1px solid rgba(100,100,100,0.3);
-
-}
-
-#DietNav.toggle-btn {
-position:absolute;
-left:230px;
-top:20px;
-
-}
-#dietNav.toggle-btn span {
-display:block;
-width:30px;
-height:5px;
-background:#151719;
-margin:5px 0px;
-}
-    #MainDiet-Column {
-  width:600px;
-  height:70%;
-    }  
+#dietContainer{
+    width:800px;
+    margin-left:auto;
+    Margin-right:auto;
 }
 
 fieldset p {
