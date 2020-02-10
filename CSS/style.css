@@ -47,15 +47,52 @@ main {
 
 
 /*diet*/
-/*fieldset {
+fieldset {
     display: flex;
     border: 2px dotted rgb(18, 19, 18);
     border-radius: 30px;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     background-color: rgba(63, 156, 70, 0.548);
-    width:fit-content;*/
+    width:fit-content;
     
+   *{ 
+margin:0px;
+padding:0px;
+font-family:sans-serif;
+}
+#dietNav {
+position:fixed;
+width:180px;
+height:70%;
+background:#151719;
+}
+
+#dietNav ul li{
+color:rgba(230,230,230,0.9);
+list-style:none;
+padding:15px 10px;
+border-bottom: 1px solid rgba(100,100,100,0.3);
+
+}
+
+#DietNav.toggle-btn {
+position:absolute;
+left:230px;
+top:20px;
+
+}
+#dietNav.toggle-btn span {
+display:block;
+width:30px;
+height:5px;
+background:#151719;
+margin:5px 0px;
+}
+    #MainDiet-Column {
+  width:600px;
+  height:70%;
+    }  
 }
 
 fieldset p {
@@ -138,7 +175,7 @@ th, tr, td {
     -webkit-border-radius: 10px;
     padding: 5px 20px;
     box-shadow: -1px 1px 2px black;
-    margin-top: 50px;
+    margin-top: 25px;
 }
 .nav > ul > li a:hover {
     color: white;
