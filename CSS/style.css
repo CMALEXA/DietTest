@@ -67,9 +67,6 @@ background-color:#EEEEEE;
 font-family: Helvetica, Arial, sans-serif;     
 }
 
-a {
- text-decoration:none;
- color:red;   
 }
 h1,h2,h3{
 margin:0;
@@ -77,9 +74,9 @@ margin:0;
 
 #dietContainer{  
   background-color:white;  
-  width:1024px;
-  margin-left:auto;   
-  margin-rightt:auto;     
+  width:800px;
+  margin-left:112px;   
+  margin-rightt:112px;     
 }
 
 #header{
